@@ -3,3 +3,16 @@ html {
   min-height: 100vh;
   font-family: 'Raleway', sans-serif;
 }
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  margin: 0 auto;
+  display: block;
+  width: 50%;
+}
