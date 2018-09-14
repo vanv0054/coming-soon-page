@@ -16,3 +16,15 @@ body {
   display: block;
   width: 50%;
 }
+
+div {
+  text-align: center;
+}
+
+.contact {
+  color: #000;
+}
+
+.contact:hover {
+  color: #3aa2d2;
+}
